@@ -5,7 +5,7 @@ from Nolan Bushnell and Steve Bristow who were influenced by the seminal 1972 At
 
 I have remake this game and it took 4 months to built it.
 
-
+See the Atari game at the end , 1980s people your favourite game has been rebuilt.
 
 Code to built atari:
 import pygame
